@@ -24,13 +24,16 @@ Ported from the ds-lesson-starters repository [here](https://github.com/learn-co
 ​
 ## Lesson Summary:
 ​
+This lesson introduces the JSON file format, building off of student's previous knowledge of lists and dictionaries.
+
 #### Topic:
 JSON and XML
 
 
 #### Prerequisite knowledge:
 
-None.
+Lists and dictionaries.
+
 #### Learning goals for this lesson:
 - Load and parse JSON documents with the JSON module
 - Read and access data stored in JSON and XML
